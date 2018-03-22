@@ -1,10 +1,5 @@
 #!/bin/bash  
 
-#touch GitStatistics.csv 
-#chmod 744 GitStatistics.csv 
-#touch NamesOfCommiters.csv 
-#chmod 744 NamesOfCommiters.csv 
-
 echo "Platform of repo e.g. github.com, gitlab.com etc. For local instances IP of server e.g. 192.168.1.1"
 read Platform
 
